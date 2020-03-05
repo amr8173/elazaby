@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0px;}
+ 
+                 
+						 
+						 #logo{margin-top:60px;
+					  margin-left:auto;
+					  margin-right:auto;
+					  width:85px;
+					  height:85px;} 
+nav{width:500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+nav ul li{list-style-type:none;
+padding:0px;
+margin:0px;
+float:left;}
+ 
+nav ul li a{font-size:18px;
+			color:#F00;
+			text-decoration:none;
+			padding:5px 15px;
+			font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+			
+			}
+nav ul li a:hover{color:#009;
+				background-color:#000;}			
+				
+				nav ul li:last-child{border-right:1px solid #0FF;}
+				.aboutus{width:500px;
+				margin:0px;
+				min-height:100px;
+				text-align:center;}
+.aboutus{width:1000px;
+		margin:0px;
+		min-height:100px;
+		text-align:center;}
+.aboutus h1{font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+font-size:16px;
+font-weight:bold;
+color:#F00;}
+.aboutus_text{width:480px;
+			float:left;
+			margin-right:20px;
+			text-align:left;}
+ 
+ 
+ 
+.aboutus_text p{font-size:20px;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+color:#222222;
+font-weight:bold;
+}
+h3{font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+					font-size:30px;
+					font-weight:bold;
+					color:#86765c;
+					text-align:left;}
+.aboutus-team{width:500px;
+		float:right;}
+.portfolio-content{background-color:#5b866b;
+width:100%
+padding:80px 0px 100px;
+clear:both;
+min-height:200px;}						
+.portfolio-content h1{font-size:48px;
+						font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+						font-weight:bold;
+						color:#F00;
+						text-align:center;
+						margin:0px;}
+.portfolio{background-color:#5b866b;
+width:100%
+padding:80px 0px 100px;
+clear:both;
+min-height:200px;}
+
+		.map{width:585;
+		height:550;
+		float:left;
+		}
+		.form h1{color:#F00;
+		font-size:48px;
+		font-weight:bold;}
+		.m{border:#00F;
+		background-color:#0F9;
+		border-radius:10px;
+		size:200px;}
+		footer{width:1000px;
+		height::63px;
+		margin:0px auto;
+		clear:both;}
+		
+		.backtop{width:150px;
+		height:63px;
+		float:right;}
+		.socali{width:500px;
+		margin:35px auto 10px;
+		clear:both;
+		min-height:20px;}
+		.socali ul{list-style-type:none;
+		padding:0px;
+		margin:0px;
+		}
+		.socali ul li{float:left;
+		margin:0px 10px;}
+		
+	
